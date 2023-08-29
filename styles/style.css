@@ -1,0 +1,52 @@
+@import url('https://fonts.cdnfonts.com/css/8bit-wonder');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(165, 218, 234);
+    font-family: '8BIT WONDER', sans-serif;                                             
+}
+
+
+h1 {
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: sticky;
+    top: 0px;
+    background-color: rgb(0, 195, 255);
+    color: white;
+    text-align: center;
+}
+
+a {
+    margin: 0;
+    position: fixed;
+    top: 4px;
+    right: 4px;
+}
+
+p {
+    margin: 0;
+    position: fixed;
+    bottom: 40px;
+    right: 0px;
+    background-color: rgb(0, 195, 255);
+    color: white;
+}
+
+ul {
+    margin: 0;
+    position: fixed;
+    bottom: 10px;
+    right: 0px;
+    background-color: rgb(0, 195, 255);
+    color: white;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
